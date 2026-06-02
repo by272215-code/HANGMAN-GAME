@@ -66,48 +66,84 @@ The main objectives of this project are:
 ## Sample Output
 
 =================================
+
       WELCOME TO HANGMAN
+      
 =================================
 
-Word: _ _ _ _ _ _
+
+Word: _ _ _ _ _ 
+
 Guessed Letters: 
+
 Attempts Left: 6
+
 Enter a letter: s
+
 Correct Guess!
+
 
 Word: s _ _ _ _ _
+
 Guessed Letters: s
+
 Attempts Left: 6
+
 Enter a letter: c
+
 Correct Guess!
+
 
 Word: s c _ _ _ _
+
 Guessed Letters: s, c
+
 Attempts Left: 6
+
 Enter a letter: h
+
 Correct Guess!
+
 
 Word: s c h _ _ _
+
 Guessed Letters: s, c, h
+
 Attempts Left: 6
+
 Enter a letter: o
+
 Correct Guess!
 
-Word: s c h o o _
-Guessed Letters: s, c, h, o
-Attempts Left: 6
-Enter a letter: o
-You already guessed this letter.
 
 Word: s c h o o _
+
 Guessed Letters: s, c, h, o
+
 Attempts Left: 6
+
+Enter a letter: o
+
+You already guessed this letter.
+
+
+
+Word: s c h o o _
+
+Guessed Letters: s, c, h, o
+
+Attempts Left: 6
+
 Enter a letter: l
+
 Correct Guess!
 
 =================================
+
 Congratulations! You Won 🎉
+
 The word was: school
+
 =================================
 
 ## Learning Outcomes
